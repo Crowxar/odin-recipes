@@ -2,9 +2,9 @@
 
 <!-- highlight the correct badge and ctrl+/ to uncomment -->
 
-![Static Badge](https://img.shields.io/badge/Progress-Not%20Started%20Yet-grey?style=for-the-badge&labelColor=E2B166)
+<!-- ![Static Badge](https://img.shields.io/badge/Progress-Not%20Started%20Yet-grey?style=for-the-badge&labelColor=E2B166) -->
 
-<!-- ![Static Badge](https://img.shields.io/badge/Progress-Started-yellow?style=for-the-badge&labelColor=E2B166) -->
+![Static Badge](https://img.shields.io/badge/Progress-Started-yellow?style=for-the-badge&labelColor=E2B166)
 
 <!-- ![Static Badge](https://img.shields.io/badge/Progress-Complete-green?style=for-the-badge&labelColor=E2B166) -->
 
