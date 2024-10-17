@@ -4,9 +4,9 @@
 
 <!-- ![Static Badge](https://img.shields.io/badge/Progress-Not%20Started%20Yet-grey?style=for-the-badge&labelColor=E2B166) -->
 
-![Static Badge](https://img.shields.io/badge/Progress-Started-yellow?style=for-the-badge&labelColor=E2B166)
+<!-- ![Static Badge](https://img.shields.io/badge/Progress-Started-yellow?style=for-the-badge&labelColor=E2B166) -->
 
-<!-- ![Static Badge](https://img.shields.io/badge/Progress-Complete-green?style=for-the-badge&labelColor=E2B166) -->
+![Static Badge](https://img.shields.io/badge/Progress-Complete-green?style=for-the-badge&labelColor=E2B166)
 
 
 <!-- PROJECT LOGO -->
@@ -18,6 +18,7 @@
 
   <h3 align="center">The Odin Project</h3>
   <h4 align="center">Project: Recipes by Crowxar</h4>
+  <h4 align="center"><a href="https://crowxar.github.io/odin-recipes/index.html">Link to completed project page</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -46,7 +47,11 @@
 
 <!-- Self Reflection -->
 ### Self Reflection
-To be filled out upon completion of the project
+The assignment was fairly easy. Looks incredibly basic but that is to be expected until I begin to learn some CSS styling.
+
+I used copy/paste quite a bit which isn't a problem however at one point I did copy "inded.html" instead of "index.html" and had to go back and manually correct it once I found the bug. Good lesson to learn for next time. 
+
+Also no AI used for this which I'm happy about. I use GPTs to help break down concepts about python and django however this level of HTML was fairly easy to grasp for myself.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
