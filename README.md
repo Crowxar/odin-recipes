@@ -20,7 +20,26 @@
   <h4 align="center"><a href="https://www.theodinproject.com/lessons/foundations-recipes"><strong>Project: Recipes</strong></a> by Crowxar</h4>
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li> <a href="#about-the-project">About The Project</a></li>
+    <li> <a href="#skills">Skills Demonstrated</a></li>
+    <li><a href="#reflection">Self Reflection</a></li>
+    <li><a href="#Assignment">Assignment Details</a></li>
+  </ol>
+</details>
 
+
+<!-- About the Project -->
+## About The Project  
+
+<!-- Skills Demonstrated -->
+## Skills Demonstrated  
+<!-- Reflection -->
+
+## Reflection  
 <!-- Assignment -->
 
 ## Assignment
