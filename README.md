@@ -17,7 +17,7 @@
   </a>
 
   <h3 align="center">The Odin Project</h3>
-  <h4 align="center"><a href="https://www.theodinproject.com/lessons/foundations-recipes"><strong>Project: Recipes</strong></a> by Crowxar</h4>
+  <h4 align="center">Project: Recipes by Crowxar</h4>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -25,24 +25,33 @@
   <summary>Table of Contents</summary>
   <ol>
     <li> <a href="#about-the-project">About The Project</a></li>
-    <li> <a href="#skills">Skills Demonstrated</a></li>
-    <li><a href="#reflection">Self Reflection</a></li>
-    <li><a href="#Assignment">Assignment Details</a></li>
+    <li> <a href="#skills-demonstrated">Skills Demonstrated</a></li>
+    <li><a href="#self-reflection">Self Reflection</a></li>
+    <li><a href="#assignment">Assignment Details</a></li>
   </ol>
 </details>
 
 
 <!-- About the Project -->
-## About The Project  
+### About The Project
+<a href="https://www.theodinproject.com/lessons/foundations-recipes">Assignment Link</a> - The goal is to create a recipe website to practice the HTML skills I've learned thus far. It will contain links to recipes and have a few pages, as well as be properly commented and ensuring the file structure is correct.
+
 
 <!-- Skills Demonstrated -->
-## Skills Demonstrated  
-<!-- Reflection -->
+### Skills Demonstrated
+- File structure
+- Proper documentation
+- Linking to other sites using correct formatting
+- Proper Git commit messages early and often
 
-## Reflection  
+<!-- Self Reflection -->
+### Self Reflection
+To be filled out upon completion of the project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- Assignment -->
-
-## Assignment
+### Assignment
 
 #### [Iteration 1: initial structure](https://www.theodinproject.com/lessons/foundations-recipes#iteration-1-initial-structure)
 
