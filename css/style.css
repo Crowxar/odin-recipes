@@ -31,7 +31,14 @@ sand9: "#8d8d86",
 sand10: "#82827c",
 sand11: "#63635e",
 sand12: "#21201c",
+
+Google Fonts
+font-family: 'Segoe UI', Tahoma, sans-serif; font-size: 75%
  */
+
+/* * {
+  outline: 2px solid red;
+} */
 
 
 body {
@@ -39,23 +46,22 @@ body {
   font-family: '	Arial', Sans-serif;
 }
 
-h1{
+.mainTitle {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  font-size: 42;
   text-align: center;
-  color: #4f3422;
 }
 
-.button {
-  font: bold 18px;
-  font-family: '	Arial', Sans-serif;
-  color: #ab6400;
+.recipePic {
+  display: inline-block;
 }
 
-img{
-  height:auto;
+.recipePic .recipeImg {
   width: 300px;
+  height: 300px;
 }
 
-p{
-  font: bold 18px;
-  font-family: 'Arial', Sans-serif;
+.recipePic .recipeTitle {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  text-align: center;
 }
